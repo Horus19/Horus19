@@ -1,11 +1,6 @@
 # Hello! I'm Horacio Camacho, but you can call me **Horus**. 👋
 
-![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
-
-<p align="center">
-  <img src="https://i.pinimg.com/originals/ca/26/2e/ca262e0354eea311c41134c3e4bc3bc2.gif" alt="coding">
-</p>
-
+![](image.png)
 
 **Software Engineer / Full-Stack Developer**. I’m passionate about building robust backend services and scalable frontends, focused on **Spring Boot**, **Angular**, and **clean architectures**. I enjoy learning, sharing, and shipping to production with good practices (tests, CI/CD, documentation).
 
